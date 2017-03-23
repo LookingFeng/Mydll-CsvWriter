@@ -1,0 +1,5 @@
+I:\Desktop\CsvWriter\CsvWriter\bin\Debug\CsvWriter.dll
+I:\Desktop\CsvWriter\CsvWriter\bin\Debug\CsvWriter.pdb
+I:\Desktop\CsvWriter\CsvWriter\obj\Debug\CsvWriter.dll
+I:\Desktop\CsvWriter\CsvWriter\obj\Debug\CsvWriter.pdb
+I:\Desktop\CsvWriter\CsvWriter\obj\Debug\CsvWriter.csprojResolveAssemblyReference.cache
